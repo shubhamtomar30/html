@@ -1,0 +1,145 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar{
+	border: none;
+	width: 100%;
+	height: 60px;
+	background:white;
+        z-index: 1;
+    position: sticky;
+    top: 0px;
+    box-shadow: 0px 2px 0px rgb(0 0 0 / 16%);
+}
+.wordnav{
+	margin-left: 950px;
+	font-weight: 100;
+	font-family: MuseoModerno;
+	font-size: 18px;
+	margin-top: -37px;
+	position: relative;
+    right: 102px;
+    color: #d70f64;
+}
+.navbar table th{
+	border: hidden;
+	width: 300px;
+	height: 40px;
+}
+.navimgposi{
+	width: 130px;
+    margin-left: 145px;
+    margin-top: 12px;
+}
+.firstback{
+	background-image: url(https://www.foodpanda.com/wp-content/uploads/2021/01/foodpanda-model1-opt-scaled.jpg);
+	width: 100%;
+	height: 680px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -58px;
+    z-index:1;
+}
+.firstback h1{
+	font-size: 42px;
+	position: relative;
+    top: 330px;    
+    text-transform: uppercase;
+    text-shadow: 0 2px 0 rgb(0 0 0 / 12%);
+    color: #fff;
+    font-family: MuseoModerno;
+}
+.countryflag{
+	background: rgba(0, 0, 0, 0.3);
+    position: relative;
+    width: 100%;
+    height: 50px;
+    top: 338px;
+    display: flex;
+}
+.countryflag h4{
+	text-transform: uppercase;
+	color: #fff;
+    font-family: MuseoModerno;
+    font-size: 13px;
+    margin-left: 120px;
+    margin-top: 12px;
+}
+.box{
+	border: hidden;
+	width: 100%;
+	height: 500px;
+	background: #fff;
+	box-shadow: 2px;
+	z-index: 1;
+}
+.secondback{
+	background-image: url(https://www.foodpanda.com/wp-content/uploads/2021/01/foodpanda-rider-opt.jpg);
+	
+	height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+   
+    
+}
+.box h3 , p , button{
+	text-align: justify;
+	font-family: MuseoModerno;
+	font-size: 16px;
+	text-transform: uppercase;
+	color: black;
+	font-weight: 600;
+	text-align: center;
+	padding: 30px 250px 0px 250px;
+}
+.box button{
+	    margin-top: 50px;
+    background: #d70f64;
+    color: white;
+    font-weight: bolder;
+    width: 285px;
+    padding: 0px;
+    height: 60px;
+    border: none;
+    border-radius: 4px;
+}
+.box2{
+	border: hidden;
+	width: 100%;
+	height: 600px;
+	background: transparent;
+	z-index: 1;
+
+}
+.thirdback{
+	background-image: url(https://www.foodpanda.com/wp-content/uploads/2021/01/foodpanda-tuna-opt-scaled.jpg);
+	height: 600px;
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.navbar table th:hover{
+	font-size: 19px;
+}
+.flag{
+	width: 51px;
+    height: 30px;
+    border-radius: 2px;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+.footer{
+	border: hidden;
+	width: 100%;
+	height: 120px;
+	background: #fff;
+
+}
+.navbar a{
+	text-decoration: none;
+	color: #d70f64;
+	cursor: pointer;
+}

@@ -1,0 +1,241 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar{
+	width: 100%;
+	height: 50px;
+	border: hidden;
+	background: #2874f0;
+	display: flex;
+	position: sticky;
+	top: 0px;
+	z-index: 1;
+}
+.navbarposi{
+	    margin-left: 190px;
+    width: 110px;
+    margin-top: 10px;
+}
+.navsearchbox{
+	margin-top: 4px;
+	border-radius: 4px;
+}
+.searchboxsize{
+	width: 485px;
+    height: 20px;
+    padding: 5px;
+    margin-left: 28px;
+    outline: 0 none;
+    border-radius: 3px; 
+    border: hidden;
+}
+.button{
+	    position: relative;
+    top: 5px;
+    height: 32px;
+    right: 6px;
+    border: hidden;
+}
+.navposiname{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	color: white;
+	margin-top: 16px;
+	margin-left: 64px
+}
+.navposiicon{
+	    color: white;
+    margin-left: 5px;
+    margin-top: 16px;
+}
+.navcartposi{
+	color: white;
+    margin-left: 73px;
+    margin-top: 17px;
+}
+.content{
+	border: hidden;
+	width: 100%;
+	height: 110px;
+	background: white;
+	display: flex;
+
+}
+.content a{
+	text-decoration: none;
+}
+.contentimgposi{
+	    width: 75px;
+    vertical-align: top;
+    margin-left: 64px;
+    margin-top: 11px;
+}
+.contentwordposi{
+	    margin-left: 73px;
+	    font-family: sans-serif;
+	    font-weight: 400;
+	    font-size: 14px;
+	    color: black;
+
+}
+.topimgposi{
+	margin-top: 20px;
+}
+.itembox{
+	border: hidden;
+	width:1300px;
+	height: 420px;
+	background: white;
+	box-shadow: 2px 2px 2px 2px rgb(0 0 0 / 16%);
+	margin-top: 30px;
+}
+.itemline{
+	border-bottom: 2px solid #d2d5e4;
+	padding: 33px;
+}
+.itemword{
+	  
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+        margin-top: 25px;
+    position: relative;
+    right: -43px;
+}
+.itemword1{
+	
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    color: #448e3c;
+    margin-top: 15px;
+    position: relative;
+    right: -41px;
+}
+.itemword2{
+	    
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    color: #7a7a7a;
+        margin-top: 15px;
+    position: relative;
+    right: -42px;
+}
+.itemword3{
+	  
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+        position: relative;
+    right: -55px;
+}
+.itemword4{
+	    
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    color: #448e3c;
+    position: relative;
+    right: -51px;
+}
+.itemword5{
+	   
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    color: #7a7a7a;
+    position: relative;
+    right: -52px;
+}
+.content h4:hover{
+       font-weight: 600;
+}
+.content img:hover{
+	width: 77px;
+}
+.itemposi2{
+margin-top: 45px;
+margin-left: 110px;
+}
+.itemimgposi1{
+	margin-top: 50px;
+	
+}
+.imgbox{
+	border: hidden;
+	width: 135px;
+	height: 210px;
+    margin-left: 70px;
+}
+.imgbox img:hover{
+	width: 135px;
+}
+.itembox pre:hover{
+	font-size: 15px;
+	font-weight: bold;
+}
+.headbar{
+	border: hidden;
+	width: 100%;
+	height: 40px;
+	background: white;
+	box-shadow: 2px 2px 2px 2px rgb(0 0 0 / 16%);
+	display: flex;
+}
+.headbar h4 {
+	margin-left: 60px;
+	font-weight: 100;
+	font-family: sans-serif;
+	font-size: 14px;
+	margin-top: 13px;
+	color: black;
+	
+}
+.headbar h4:hover{
+	font-size: 16px;
+	font-weight: 400;
+	color: #2874f0;
+}
+.headbar a{
+	text-decoration: none;
+}
+.watchbox{
+	border: 2px solid #d2d5e4;
+	width: 440px;
+    height: 470px;
+	margin-left: 90px;
+    margin-top: 30px;
+    background: white;
+    box-shadow: 1px 2px 2px rgb(0 0 0 / 16%);
+    position: sticky;
+    top: 60px;
+}
+.secondbox{
+       border: 1px solid #d2d5e4 ;
+       width: 730px;
+       height: 1000px;
+       background: white;
+       box-shadow: 1px 2px 2px rgb(0 0 0 / 16%);
+       margin-top: 30px;
+       margin-left: 30px;
+       padding: 30px 30px 30px 30px;
+}
+.imgbox2{
+	border: hidden;
+	width: 135px;
+	height: 210px;
+    margin-left: 70px;
+}
+.imgbox2 img:hover{
+     width: 80px;
+}
+.footer{
+	width: 100%;
+	height: 300px;
+	border: hidden;
+	background: #172337;
+	margin-top: 575px;
+}

@@ -1,0 +1,136 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar{
+	width: 100%;
+	height: 70px;
+    background: #1c2939;
+    
+}
+.images{
+	    width: 150px;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+.menu{
+
+ margin-top: -45px;
+ margin-left: 200px;
+}
+.menu a{
+	color: #737b85;
+	text-decoration: none;
+	margin-left: 30px;
+	font-family: sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+.slider{
+	margin-top: 4px;
+	background: url(https://qqcdnpictest.mxplay.com/pic/b20ae0bec5a653371e5c9c5dea14e22d/en/40x13/1600x520/test_pic1616691664432.webp);
+	color: white;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-repeat: no-repeat;
+}
+.background{
+	background:#16202b;
+}
+.heading{
+	font-family: sans-serif;
+	font-weight: normal;
+	color: #737b85;
+	font-size: 25px;
+	margin-left: 10px;
+	margin-top: 50px;
+}
+.atag{
+	text-decoration: none;
+	color: #3c8cf0;
+	margin-left: 1200px;
+	font-size: 14px;
+
+}    
+.boxes{
+	border: 0px solid;
+    width: 212px;
+    height: 300px;
+    margin-top: 30px;
+    float: left;
+    margin-left: 7px;
+}
+.head{
+	font-family: sans-serif;
+	font-weight: normal;
+	color: #737b85;
+	font-size: 25px;
+	margin-left: 30px;
+	position: relative;
+	top: 22px;
+}
+.moviename{
+	text-decoration: none;
+	color:#dadde4;
+	font-size: 14px;
+	 font-family: sans-serif;
+	text-align: justify-all;
+}
+.overlay{
+	width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: 0.7;
+    position: absolute;
+    margin-top: -1px;
+}
+.menu a:hover{
+	color:  white;
+}
+.posterletter{
+	font-family: sans-serif;
+	font-size: 22px;
+	z-index: 1;
+	font-weight: 100;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+.footer{
+	border: 2px solid;
+	width: 100%;
+	height: 1000px;
+	background: black;
+	float: right;
+    margin-top: 135px;
+    padding-left: 50px;
+}
+.footer ul a{
+	text-decoration: none;
+	color: #dadde4;
+	font-weight:100;
+	font-size: 14px;
+	font-family: sans-serif;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.footer ul{
+	float: left;
+	padding-left: 130px;
+}
+.footerpara{
+	color: white;
+	    margin-top: 360px;
+    padding-left: 90px;
+    padding-right: 90px;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.footer ul a:hover{
+	color:#000006;
+}

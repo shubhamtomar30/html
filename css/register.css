@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.img{
+	background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/38_1600x.jpg?v=1606608359);
+	width: 100%;	
+	height: 334px;
+	background-repeat: no-repeat;
+    background-size: cover;
+	}
+.box{
+    border: 0px solid;
+    width: 400px;
+    height: 200px;
+    margin-left: 110px;
+    margin-top: 187px;
+    border-radius: 9px;
+    background: white;
+}
+.box:hover{
+	width: 405px;
+	height:205px;
+}
+.posi{
+	margin-left: 70px;
+    padding-top: 46px;
+    font-family: -webkit-pictograph;
+    font-weight: 100;
+}
+.posi input:hover{
+	
+}
+.boxes2{
+	    border: 2px solid;
+    width: 416px;
+    height: 386px;
+    border-radius: 7px;
+    background: white;
+    margin-left: 94px;
+    margin-top: 104px;
+}
